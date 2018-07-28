@@ -1,2 +1,2 @@
 # UNIBUDDY Android application
-app for college students to buy and sell things within the college easily.
+An Android-based multi college studyportal application for college students working via Internet.
